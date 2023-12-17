@@ -12,6 +12,9 @@
   Each section provides detailed information about Tushar's background,
   skills, work experience, educational history, and the projects he has undertaken.
 
+## Demo Live
+     https://tsinghal451.netlify.app/
+
 ## Technologies Used
 
 - HTML
